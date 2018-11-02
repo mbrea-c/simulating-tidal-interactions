@@ -4,8 +4,7 @@
 """
 Authors: Manuel Brea & Michael Thiel
 
-Notes: - New versions of the code will be uploaded to the Drive folder provided
-       - Parameters for the simulation are at the end of the file
+Notes: - Parameters for the simulation are at the end of the file
        - Comments will be added to every part of the code soon
        - In the current version, output is provided as a sequence of images in
          the same folder the code is located
