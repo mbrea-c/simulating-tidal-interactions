@@ -1,4 +1,8 @@
 # Simulating Tidal Interactions
+This is a supporting repository for project undertaken during the summer of 2017 by pre-university student interns Michael Thiel and Manuel Brea-Carreras at Haus der Astronomie: point-particle simulations of galaxy colisions with the aim of reproducing observasional data from such collisions. 
+
+Repository contents
+-------------------
 This repository contains:
 - A copy of our report on this project, as well as the LaTex source code.
 - The simulation script.
